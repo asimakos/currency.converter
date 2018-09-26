@@ -1,0 +1,41 @@
+[
+    {
+        "name": "danbelden/open-exchange-rates",
+        "version": "v1.0.2",
+        "version_normalized": "1.0.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/danbelden/open-exchange-rates.git",
+            "reference": "c29280b4266cd647aee1069929d40848fdb9b102"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/danbelden/open-exchange-rates/zipball/c29280b4266cd647aee1069929d40848fdb9b102",
+            "reference": "c29280b4266cd647aee1069929d40848fdb9b102",
+            "shasum": ""
+        },
+        "require": {
+            "ext-curl": "*",
+            "php": ">=5.3.3"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "^4.8"
+        },
+        "time": "2017-09-09T09:12:44+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "OpenExRt\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "authors": [
+            {
+                "name": "Dan Belden",
+                "email": "me@danbelden.com"
+            }
+        ],
+        "description": "A PHP SDK to communicate with the open exchange rates APIs"
+    }
+]
