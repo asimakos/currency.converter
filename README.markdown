@@ -14,6 +14,6 @@ otherwise the converter displays an error and thus the calculation can not be ac
 
 ![currency2.png](img/currency2.png "")
 
-Futhermore this app is also accessible via mobile devices:
+Futhermore this app is also accessible via mobile devices.
 
 ![currency4.png](img/currency4.png "")
